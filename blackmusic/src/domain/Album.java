@@ -6,6 +6,8 @@ public class Album{
         private String nome;
         private Date dataLancamento;
         private List<Cantor> cantors;
+        private Cantor cantor;
+
     
         
     }
