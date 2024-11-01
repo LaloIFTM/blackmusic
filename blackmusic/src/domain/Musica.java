@@ -6,5 +6,7 @@ public class Musica {
     private String duracao;
     private String link;
     private String titulo;
+    private Musica musica;
+    private Genero genero;
 
 }
